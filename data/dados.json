@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1726510262511,
+    "nome": "Shampoo Hidratante",
+    "marca": "L'Oréal",
+    "preco": 35.9,
+    "quantidade": 10,
+    "categoria": "Cuidados Diários",
+    "descricao": "Shampoo hidratante para cabelos secos, oferecendo limpeza suave e hidratação profunda.",
+    "img_produto": "/uploads/1726510262511.png"
+  },
+  {
+    "id": 1726510291348,
+    "nome": "Condicionador Fortificante",
+    "marca": "Pantene",
+    "preco": 28.99,
+    "quantidade": 15,
+    "categoria": "Cuidados Diários",
+    "descricao": "Condicionador com fórmula enriquecida que fortalece e repara cabelos frágeis.",
+    "img_produto": "/uploads/1726510291348.png"
+  },
+  {
+    "id": 1726510459377,
+    "nome": "Máscara de Tratamento Reconstrutora",
+    "marca": "Kerastase",
+    "preco": 120,
+    "quantidade": 8,
+    "categoria": "Tratamento Capilar",
+    "descricao": "Máscara profunda para reconstrução capilar, ideal para cabelos danificados e quimicamente tratados.",
+    "img_produto": "/uploads/1726510459377.png"
+  },
+  {
+    "id": 1726510505815,
+    "nome": "Óleo Capilar Nutritivo",
+    "marca": "Moroccanoil",
+    "preco": 150.99,
+    "quantidade": 12,
+    "categoria": "Finalizadores",
+    "descricao": "Óleo nutritivo para todos os tipos de cabelo, proporcionando brilho e maciez imediata.",
+    "img_produto": "/uploads/1726510505815.png"
+  },
+  {
+    "id": 1726510562278,
+    "nome": "Leave-in Protetor Térmico",
+    "marca": "TRESemmé",
+    "preco": 39.99,
+    "quantidade": 20,
+    "categoria": "Cuidados Diários",
+    "descricao": "Leave-in com proteção térmica, ideal para uso antes da secagem e modelagem com chapinha.",
+    "img_produto": "/uploads/1726510562278.png"
+  },
+  {
+    "id": 1726510612998,
+    "nome": "Gel Modelador de Cabelo",
+    "marca": "Redken",
+    "preco": 45.99,
+    "quantidade": 25,
+    "categoria": "Finalizadores",
+    "descricao": "Gel modelador de longa duração para penteados estruturados, com efeito natural.",
+    "img_produto": "/uploads/1726510612998.png"
+  },
+  {
+    "id": 1726510643901,
+    "nome": "Kit Crescimento Capilar",
+    "marca": "Bomba de Vitaminas",
+    "preco": 80.99,
+    "quantidade": 5,
+    "categoria": "Tratamento Capilar",
+    "descricao": "Kit de crescimento capilar com shampoo e tônico, para fortalecimento e crescimento acelerado dos fios.",
+    "img_produto": "/uploads/1726510643901.png"
+  },
+  {
+    "id": 1726510672840,
+    "nome": "Spray Fixador de Penteado",
+    "marca": "Sebastian Professional",
+    "preco": 62.99,
+    "quantidade": 18,
+    "categoria": "Finalizadores",
+    "descricao": "Spray fixador de alta resistência, ideal para manter o penteado firme por mais tempo.",
+    "img_produto": "/uploads/1726510672840.png"
+  },
+  {
+    "id": 1726510710615,
+    "nome": "Creme para Pentear Cachos Definidos",
+    "marca": "Novex",
+    "preco": 22.5,
+    "quantidade": 40,
+    "categoria": "Finalizadores",
+    "descricao": "Creme para pentear especialmente formulado para definir e hidratar cabelos cacheados.",
+    "img_produto": "/uploads/1726510710615.png"
+  },
+  {
+    "id": 1726510992519,
+    "nome": "Creme de Pentear Anti-Frizz",
+    "marca": "Widi Care",
+    "preco": 32.98,
+    "quantidade": 24,
+    "descricao": "Creme de pentear desenvolvido para controlar o frizz e hidratar os fios, proporcionando definição e maciez para cabelos lisos.",
+    "img_produto": "/uploads/1726510992517.png"
+  }
+]
